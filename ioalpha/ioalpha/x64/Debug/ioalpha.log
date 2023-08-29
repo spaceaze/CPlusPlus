@@ -1,0 +1,42 @@
+﻿  ioalpha.cpp
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(13,15): error C2061: syntax error: identifier 'ofstream'
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(14,15): error C2061: syntax error: identifier 'ifstream'
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(18,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(19,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(20,5): error C2065: 'ofstream': undeclared identifier
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(20,14): error C2146: syntax error: missing ';' before identifier 'myfile'
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(20,14): error C2065: 'myfile': undeclared identifier
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(21,5): error C2065: 'myfile': undeclared identifier
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(21,30): error C2653: 'ios': is not a class or namespace name
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(21,35): error C2065: 'binary': undeclared identifier
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(21,44): error C2653: 'ios': is not a class or namespace name
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(21,49): error C2065: 'out': undeclared identifier
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(22,13): error C2065: 'myfile': undeclared identifier
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(23,5): error C2065: 'myfile': undeclared identifier
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(27,28): error C2761: 'void Student::save(void)': redeclaration of member is not allowed
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(27,20): error C2065: 'ofstream': undeclared identifier
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(27,30): error C2065: 'of': undeclared identifier
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(28,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(29,5): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(29,7): error C3484: syntax error: expected '->' before the return type
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(29,8): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(29,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(29,8): error C2146: syntax error: missing ';' before identifier 'write'
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(30,5): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(30,7): error C3484: syntax error: expected '->' before the return type
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(30,8): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(30,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(30,5): error C2086: 'int of': redefinition
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(29,5): message : see declaration of 'of'
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(30,8): error C2146: syntax error: missing ';' before identifier 'write'
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(31,5): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(31,7): error C3484: syntax error: expected '->' before the return type
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(31,8): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(31,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(31,5): error C2086: 'int of': redefinition
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(29,5): message : see declaration of 'of'
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(31,8): error C2146: syntax error: missing ';' before identifier 'write'
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(32,1): error C2059: syntax error: '}'
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(32,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(35,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\space\source\repos\ioalpha\ioalpha\ioalpha.cpp(35,1): error C2447: '{': missing function header (old-style formal list?)

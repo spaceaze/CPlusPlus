@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{39E2626F-3545-4960-A6E8-258AD8476CE5}") = "Android2", "Android2\Android2.androidproj", "{86C80465-29B8-4A5F-B22D-768F28B6BB4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Debug|ARM.Build.0 = Debug|ARM
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Debug|ARM.Deploy.0 = Debug|ARM
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Debug|ARM64.Build.0 = Debug|ARM64
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Debug|x64.ActiveCfg = Debug|x64
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Debug|x64.Build.0 = Debug|x64
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Debug|x64.Deploy.0 = Debug|x64
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Debug|x86.ActiveCfg = Debug|x86
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Debug|x86.Build.0 = Debug|x86
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Debug|x86.Deploy.0 = Debug|x86
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Release|ARM.ActiveCfg = Release|ARM
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Release|ARM.Build.0 = Release|ARM
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Release|ARM.Deploy.0 = Release|ARM
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Release|ARM64.ActiveCfg = Release|ARM64
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Release|ARM64.Build.0 = Release|ARM64
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Release|ARM64.Deploy.0 = Release|ARM64
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Release|x64.ActiveCfg = Release|x64
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Release|x64.Build.0 = Release|x64
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Release|x64.Deploy.0 = Release|x64
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Release|x86.ActiveCfg = Release|x86
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Release|x86.Build.0 = Release|x86
+		{86C80465-29B8-4A5F-B22D-768F28B6BB4F}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7805241C-5BD9-4B7A-8D40-DD44C45D3568}
+	EndGlobalSection
+EndGlobal
